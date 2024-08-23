@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="image_1_title">Las Torres Gemelas Ideales</string>
+    <string name="author_1">Pixabay</string>
+    <string name="year_1">(2016)</string>
+    <string name="image_2_title">Mujer de negro</string>
+    <string name="author_2">Enrico Perini</string>
+    <string name="year_2">(2017)</string>
+    <string name="image_3_title">Edificio Blanco</string>
+    <string name="author_3">Joseph Costa</string>
+    <string name="year_3">(2018)</string>
+</resources>
